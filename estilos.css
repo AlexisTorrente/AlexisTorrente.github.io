@@ -114,7 +114,7 @@
     margin-bottom: 1rem;
     width: 30px; /* Ajusta el tamaño de la mano según tus preferencias */
     height: 30px;
-    background-image: url('imagenes\\hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
+    background-image: url('imagenes/hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
     background-size: cover;
     animation: wave 1s infinite alternate; /* Agrega una animación de oscilación */
 }
