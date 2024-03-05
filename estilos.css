@@ -454,7 +454,7 @@
     width: 30px; /* Ajusta el tamaño de la mano según tus preferencias */
     height: 30px;
     padding: 1rem;
-    background-image: url('hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
+    background-image: url('imagenes/hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
     background-size: cover;
     animation: wave 1s infinite alternate; /* Agrega una animación de oscilación */
 }
@@ -542,6 +542,10 @@
     #formulario-container {
         width: 80%;
         padding: 10px;
+    }
+
+    .contacto-item{
+        margin-right: 0.5rem;
     }
 
     .contacto-item i {
