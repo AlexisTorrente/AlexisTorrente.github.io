@@ -541,12 +541,8 @@
 
 
     #formulario-container {
-        width: 80%;
+        width: 100%;
         padding: 10px;
-    }
-
-    .contacto-item{
-        margin-right: 1rem;
     }
 
     .contacto-item i {
