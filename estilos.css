@@ -455,7 +455,7 @@
     height: 20px;
     margin-right: -1rem;
     padding: 0.8rem;
-    background-image: url('hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
+    background-image: url('imagenes/hand.png'); /* Reemplaza 'ruta-de-tu-imagen' con la ubicación de tu imagen */
     background-size: cover;
     animation: wave 1s infinite alternate; /* Agrega una animación de oscilación */
 }
